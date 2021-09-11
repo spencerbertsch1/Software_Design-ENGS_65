@@ -1,1 +1,4 @@
-This folder contains several practice files that I have worked on during the course and after the course to keep myself as fluent as possible with C++. 
+# Practice C++
+
+This directory contains practice questions and exercises used to keep myself as fluent as possible 
+in the C++ programming language. 
